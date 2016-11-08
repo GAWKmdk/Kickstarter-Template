@@ -1,0 +1,37 @@
+# Meteor packages used by this project, one per line.
+# Check this file (and the other files in this directory) into your repository.
+#
+# 'meteor add' and 'meteor remove' will edit this file for you,
+# but you can also edit it by hand.
+
+iron:router
+momentjs:moment
+accounts-password
+sacha:spin
+matteodem:easy-search
+chuangbo:marked
+mizzao:bootboxjs
+twbs:bootstrap
+accounts-base
+meteor-base
+mobile-experience
+mongo
+blaze-html-templates
+session
+jquery
+tracker
+logging
+reload
+random
+ejson
+spacebars
+check
+standard-minifier-css
+standard-minifier-js
+#yogiben:admin
+houston:admin
+themeteorchef:bert 
+webtempest:animate 
+fortawesome:fontawesome 
+dburles:factory
+digilord:faker
